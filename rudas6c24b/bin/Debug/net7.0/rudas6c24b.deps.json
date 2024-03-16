@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "rudas6c24b/1.0.0": {
+        "runtime": {
+          "rudas6c24b.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "rudas6c24b/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

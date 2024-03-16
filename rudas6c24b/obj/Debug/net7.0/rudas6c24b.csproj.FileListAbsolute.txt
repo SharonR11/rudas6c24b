@@ -1,0 +1,15 @@
+C:\Users\Alumno\source\repos\rudas6c24b\rudas6c24b\bin\Debug\net7.0\rudas6c24b.exe
+C:\Users\Alumno\source\repos\rudas6c24b\rudas6c24b\bin\Debug\net7.0\rudas6c24b.deps.json
+C:\Users\Alumno\source\repos\rudas6c24b\rudas6c24b\bin\Debug\net7.0\rudas6c24b.runtimeconfig.json
+C:\Users\Alumno\source\repos\rudas6c24b\rudas6c24b\bin\Debug\net7.0\rudas6c24b.dll
+C:\Users\Alumno\source\repos\rudas6c24b\rudas6c24b\bin\Debug\net7.0\rudas6c24b.pdb
+C:\Users\Alumno\source\repos\rudas6c24b\rudas6c24b\obj\Debug\net7.0\rudas6c24b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\rudas6c24b\rudas6c24b\obj\Debug\net7.0\rudas6c24b.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\rudas6c24b\rudas6c24b\obj\Debug\net7.0\rudas6c24b.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\rudas6c24b\rudas6c24b\obj\Debug\net7.0\rudas6c24b.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\rudas6c24b\rudas6c24b\obj\Debug\net7.0\rudas6c24b.dll
+C:\Users\Alumno\source\repos\rudas6c24b\rudas6c24b\obj\Debug\net7.0\refint\rudas6c24b.dll
+C:\Users\Alumno\source\repos\rudas6c24b\rudas6c24b\obj\Debug\net7.0\rudas6c24b.pdb
+C:\Users\Alumno\source\repos\rudas6c24b\rudas6c24b\obj\Debug\net7.0\rudas6c24b.genruntimeconfig.cache
+C:\Users\Alumno\source\repos\rudas6c24b\rudas6c24b\obj\Debug\net7.0\ref\rudas6c24b.dll
+C:\Users\Alumno\source\repos\rudas6c24b\rudas6c24b\obj\Debug\net7.0\rudas6c24b.sourcelink.json
